@@ -50,9 +50,3 @@ A cutting-edge Learning Management System designed specifically for health profe
 ![Clerk](https://img.shields.io/badge/-Clerk-000000?logo=clerk&logoColor=white)
 
 ## 🛠 Installation
-
-1. Clone repository:
-   ```bash
-   git clone https://github.com/yourusername/fitmefine-lms.git
-   cd fitmefine-lms
-   ```
